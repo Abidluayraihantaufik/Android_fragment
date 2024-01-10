@@ -9,29 +9,29 @@ Dosen   : Donny Maulana, S.Kom., M.M.S.I.
 ## **Daftar Isi**
 Terdapat 9 menu pada aplikasi tetapi hanya 8 menu yang terdapat program aktif, diantaranya:
 ###  1. **Hello** <br>
-Ini adalah program yang hanya menampilkan teks pada aplikasi. Disini teksnya adalah "Bagaimana kabar anda hari ini?". <br>
-<img src="https://github.com/dipca0895/UAS-SatSet-App/blob/main/img/hello.jpg" width=30% height=30%>
+Ini adalah program yang hanya menampilkan teks pada aplikasi. Disini teksnya adalah "Hello World". <br>
+<img src="https://github.com/Abidluayraihantaufik/Android_fragment/blob/main/img/hello.gif" width=20% height=10%>
 
 ### 2. **Count** <br>
 Count adalah program yang menampilkan perhitungan tambah 1 bisa juga disebut program Toast.
 
-https://github.com/dipca0895/UAS-SatSet-App/assets/115719283/f8a02fe6-493c-42af-92bd-b5ad6b5d8e92
+<img src="https://github.com/Abidluayraihantaufik/Android_fragment/blob/main/img/count.gif" width=20% height=10%>
 
 ### 3. **Maps** <br>
 Maps adalah program yang menampilkan tampilan maps dari aplikasi Google Maps, program ini menerapkan fungsi Implisit. Implisit intent memungkinkan Anda meminta sistem Android untuk menemukan aplikasi yang sesuai untuk menangani tugas tertentu, dalam hal ini menunjukkan lokasi di peta.
 
-https://github.com/dipca0895/UAS-SatSet-App/assets/115719283/3a523cbc-71ba-441b-8b56-b6fa8ffc61d8https://github.com/dipca0895/UAS-SatSet-App/assets/115719283/3a523cbc-71ba-441b-8b56-b6fa8ffc61d8
+<img src="https://github.com/Abidluayraihantaufik/Android_fragment/blob/main/img/maps.gif" width=20% height=10%>
 
 ### 4. **News** <br>
 News adalah program yang menampilkan tampilan seperti Artikel dari sebuah berita. Berita disini adalah tentang **"Ice Cold"**.
 
-https://github.com/dipca0895/UAS-SatSet-App/assets/115719283/642374ae-0b82-46ee-9660-c8d6be7915c6
+<img src="https://github.com/Abidluayraihantaufik/Android_fragment/blob/main/img/icecold.gif" width=20% height=10%>
 
 ### 5. **Alarm** <br>
 Alarm adalah program yang menampilkan alarm menggunakan fungsi dari **AlarmManager**. **AlarmManager** adalah komponen sistem Android yang memungkinkan Anda menjadwalkan dan mengeksekusi kode pada waktu tertentu, baik itu dalam waktu segera, satu kali, atau berulang.
 
 
-https://github.com/dipca0895/UAS-SatSet-App/assets/115719283/4782b222-6b53-49d5-8715-d2d82228aed8
+
 
 ### 6. **Fibonacci** <br>
 Fibonacci sesuai dengan namanya program tersebut menampilkan perhitungan dari fibonacci yaitu 1,1,2,3,5,8....dst. berikut adalah fitur dari program tersebut.<br>
@@ -53,14 +53,13 @@ Yaitu semua nilai terkait Fibonacci diatur kembali ke nilai awal, dan tampilan d
 **- Tampilan Baris Fibonacii**  
 Yaitu menampilkan baris berapa dalam perhitungan fibonacci saat ini.
 
-https://github.com/dipca0895/UAS-SatSet-App/assets/115719283/59582961-0899-4ce4-af2b-edc9f867ee91
+<img src="https://github.com/Abidluayraihantaufik/Android_fragment/blob/main/img/fibbo.gif" width=20% height=10%>
 
 ### 7. **Chat** <br>
 Chat adalah program yang terdapat 2 fungsi yaitu mengirim pesan dan membalas pesan tetapi ini hanya implementasi dari program **Two Activity**.
 
-
-https://github.com/dipca0895/UAS-SatSet-App/assets/115719283/0aca9c85-84fd-48fe-b85d-95e17d02fe8d
+<img src="https://github.com/Abidluayraihantaufik/Android_fragment/blob/main/img/chat.gif" width=20% height=10%>
 
 ### 8. **Movie** <br>
 
-https://github.com/dipca0895/UAS-SatSet-App/assets/115719283/70d98f29-339d-4cb8-81c2-a215dea3dca9
+<img src="https://github.com/Abidluayraihantaufik/Android_fragment/blob/main/img/movie.gif" width=20% height=10%>
