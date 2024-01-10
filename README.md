@@ -1,5 +1,4 @@
-# Android_fragment
-<<<<<<< HEAD
+
 # UAS_PEMROWEB
 =======
 ## **DEMO APLIKASI**
